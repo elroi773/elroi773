@@ -4,7 +4,7 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 만나서 반갑습니다!  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> And they praised God because of me.</li><br>
-    </li>끊임없이 공부하고 성장하는 개발자 김이레 입니다! </div> 
+    </li>어제 보다 더 나은 내일을 개발하는 프론트엔드 개발자 김이레 입니다! </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
