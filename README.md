@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=4b6f49&height=240&text=Nice%20to%20meet%20you!&animation=blinking&fontColor=fffdc7&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=4b6f49&margin=0%height=240&text=Nice%20to%20meet%20you!&animation=blinking&fontColor=fffdc7&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 만나서 반갑습니다!  </h2>  
