@@ -32,5 +32,3 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elroi773&layout=compact&bg_color=180,fffdc7,00000000&title_color=545e3b&text_color=545e3b"
            /> </div> 
     </div>
-<br>
-
