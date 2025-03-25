@@ -32,3 +32,7 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elroi773&layout=compact&bg_color=180,fffdc7,00000000&title_color=545e3b&text_color=545e3b"
            /> </div> 
     </div>
+    <div>
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elroi773&langs_count=8)](https://github.com/elroi773/github-readme-stats)
+    </div>
+    
