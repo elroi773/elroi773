@@ -36,13 +36,13 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elroi773&layout=compact&bg_color=180,fff3c7,00000000&title_color=75070c&text_color=75070c"
            /> </div> 
     </div>
+    <br>
+    <br>
+    <p align="center">
+      <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=elroi773&utm_content=farm">
+        <img src="https://render.gitanimals.org/farms/elroi773" width="600" height="300" />
+      </a>
+    </p>
 
-
-    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=elroi773&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/elroi773"
-  width="600"
-  height="300"
-/>
-</a>
     
+   
