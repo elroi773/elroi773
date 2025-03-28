@@ -39,9 +39,13 @@
     <br>
     <br>
     <p align="center">
-      <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=elroi773&utm_content=farm">
-        <img src="https://render.gitanimals.org/farms/elroi773" width="600" height="300" />
-      </a>
+     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=elroi773&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/elroi773"
+      width="600"
+      height="300"
+    />
+    </a>
     </p>
 
     
