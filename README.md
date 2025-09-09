@@ -9,7 +9,7 @@
 <p align="left">🛠️ Tech Stacks <br>I know how to use</p>
 
 ###
-
+<br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
@@ -39,11 +39,14 @@
 </div>
 
 ###
+<br>
+<br>
+<br>
 
 <p align="left">🛠️ Tech Stacks <br>I've used it before</p>
 
 ###
-
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
   <img width="12" />
@@ -79,8 +82,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
 </div>
+<br>
+<br>
+<br>
 
-###
 
 <div align="center">
 </div>
@@ -89,6 +94,7 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=elroi773&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elroi773&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
