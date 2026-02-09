@@ -48,10 +48,6 @@
 
 ###
 
-<img
-  src="https://raw.githubusercontent.com/pleasebelieveme/pleasebelieveme/output/pacman-contribution-graph-dark.svg?v=1"
-/>
-
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elroi773&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph" align="center" />
 </div>
