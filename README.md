@@ -2,9 +2,6 @@
 
 ###
 
-
-
-
 <p align="left">And they praised God because of me.<br>어제 보다 더 나은 내일을 개발하는 개발자 김이레 입니다!</p>
 
 ###
