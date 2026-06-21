@@ -3,7 +3,6 @@
 
 ###
 
-
 [![GitGarden](https://gitgarden.marshallku.dev/?user_name=elroi773)](https://github.com/marshallku/gitgarden)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elroi773/elroi773/output/pacman-contribution-graph-dark.svg">
