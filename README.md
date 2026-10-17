@@ -8,5 +8,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/elroi773/elroi773/output/pacman-contribution-graph.svg">
 </picture>
 
-
-###
