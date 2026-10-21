@@ -1,8 +1,7 @@
 <h2 align="left">안녕하세요!</h2>
 <p align="left">And they praised God because of me.<br>어제 보다 더 나은 내일을 개발하는 개발자 김이레 입니다!</p>
 
-<a href="https://www.youtube.com/watch?v=TEZuZr7X0rk&t=67"><img src="https://github-readme-music.vercel.app/card/c_Kl-AEa1fElXxnFqQ.svg" alt="wave to earth - sing it all again — wave to earth" width="380" /></a>
-
+<a align="center" href="https://www.youtube.com/watch?v=Lati0NVN8IY"><img src="https://github-readme-music.vercel.app/card/c_jLBkEoK8Pzbmvg_F.svg" alt="Hearts2Hearts - ICONIC HEART (Korean Ver.) | Show! MusicCore | aired on MBC261017 #Hearts2Hearts — Hearts2Hearts" width="380" /></a>
 
 ###
 <picture>
